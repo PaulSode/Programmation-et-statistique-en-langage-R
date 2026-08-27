@@ -1,0 +1,45 @@
+# ------------------------------------------------------------------------------
+# docker-compose.yml -- API + WebApp
+#
+#     docker compose up --build
+#
+#     API     http://localhost:5000/api/health
+#     Docs    http://localhost:5000/__docs__/
+#     WebApp  http://localhost:3838
+#
+# Les deux services partagent le meme volume models/ en lecture seule : un
+# reentrainement suivi d'un redemarrage suffit a deployer un nouveau modele,
+# sans reconstruire aucune image.
+# ------------------------------------------------------------------------------
+services:
+
+  api:
+    build: .
+    image: dogclf-r
+    command: ["api"]
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./models:/app/models:ro
+      - ./reports:/app/reports:ro
+    environment:
+      DOGCLF_API_PORT: "5000"
+    restart: unless-stopped
+
+  webapp:
+    build: .
+    image: dogclf-r
+    command: ["app"]
+    ports:
+      - "3838:3838"
+    volumes:
+      - ./models:/app/models:ro
+      - ./reports:/app/reports:ro
+    environment:
+      DOGCLF_APP_PORT: "3838"
+      # La WebApp appelle l'API par son nom de service sur le reseau Docker.
+      DOGCLF_API_URL: "http://api:5000"
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped

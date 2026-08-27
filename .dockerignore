@@ -1,0 +1,5 @@
+data/raw/
+data/manifest_raw.csv
+reports/*.png
+.git/
+.Rproj.user/

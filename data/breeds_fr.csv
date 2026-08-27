@@ -1,0 +1,121 @@
+breed_raw,breed_label,breed_fr
+Chihuahua,Chihuahua,Chihuahua
+Japanese_spaniel,Japanese spaniel,Épagneul japonais (Chin)
+Maltese_dog,Maltese dog,Bichon maltais
+Pekinese,Pekinese,Pékinois
+Shih-Tzu,Shih-Tzu,Shih Tzu
+Blenheim_spaniel,Blenheim spaniel,Cavalier King Charles (Blenheim)
+papillon,papillon,Épagneul papillon
+toy_terrier,toy terrier,Terrier toy
+Rhodesian_ridgeback,Rhodesian ridgeback,Rhodesian Ridgeback
+Afghan_hound,Afghan hound,Lévrier afghan
+basset,basset,Basset hound
+beagle,beagle,Beagle
+bloodhound,bloodhound,Chien de Saint-Hubert
+bluetick,bluetick,Bluetick Coonhound
+black-and-tan_coonhound,black-and-tan coonhound,Coonhound noir et feu
+Walker_hound,Walker hound,Treeing Walker Coonhound
+English_foxhound,English foxhound,Foxhound anglais
+redbone,redbone,Redbone Coonhound
+borzoi,borzoi,Barzoï
+Irish_wolfhound,Irish wolfhound,Lévrier irlandais
+Italian_greyhound,Italian greyhound,Petit lévrier italien
+whippet,whippet,Whippet
+Ibizan_hound,Ibizan hound,Podenco d'Ibiza
+Norwegian_elkhound,Norwegian elkhound,Chien d'élan norvégien
+otterhound,otterhound,Otterhound
+Saluki,Saluki,Saluki (lévrier persan)
+Scottish_deerhound,Scottish deerhound,Lévrier écossais
+Weimaraner,Weimaraner,Braque de Weimar
+Staffordshire_bullterrier,Staffordshire bullterrier,Staffordshire Bull Terrier
+American_Staffordshire_terrier,American Staffordshire terrier,American Staffordshire Terrier
+Bedlington_terrier,Bedlington terrier,Bedlington Terrier
+Border_terrier,Border terrier,Border Terrier
+Kerry_blue_terrier,Kerry blue terrier,Kerry Blue Terrier
+Irish_terrier,Irish terrier,Terrier irlandais
+Norfolk_terrier,Norfolk terrier,Norfolk Terrier
+Norwich_terrier,Norwich terrier,Norwich Terrier
+Yorkshire_terrier,Yorkshire terrier,Yorkshire Terrier
+wire-haired_fox_terrier,wire-haired fox terrier,Fox-terrier à poil dur
+Lakeland_terrier,Lakeland terrier,Lakeland Terrier
+Sealyham_terrier,Sealyham terrier,Sealyham Terrier
+Airedale,Airedale,Airedale Terrier
+cairn,cairn,Cairn Terrier
+Australian_terrier,Australian terrier,Terrier australien
+Dandie_Dinmont,Dandie Dinmont,Dandie Dinmont Terrier
+Boston_bull,Boston bull,Boston Terrier
+miniature_schnauzer,miniature schnauzer,Schnauzer nain
+giant_schnauzer,giant schnauzer,Schnauzer géant
+standard_schnauzer,standard schnauzer,Schnauzer moyen
+Scotch_terrier,Scotch terrier,Terrier écossais
+Tibetan_terrier,Tibetan terrier,Terrier tibétain
+silky_terrier,silky terrier,Silky Terrier australien
+soft-coated_wheaten_terrier,soft-coated wheaten terrier,Terrier irlandais à poil doux
+West_Highland_white_terrier,West Highland white terrier,West Highland White Terrier
+Lhasa,Lhasa,Lhassa Apso
+flat-coated_retriever,flat-coated retriever,Retriever à poil plat
+curly-coated_retriever,curly-coated retriever,Retriever à poil bouclé
+golden_retriever,golden retriever,Golden Retriever
+Labrador_retriever,Labrador retriever,Labrador Retriever
+Chesapeake_Bay_retriever,Chesapeake Bay retriever,Retriever de la baie de Chesapeake
+German_short-haired_pointer,German short-haired pointer,Braque allemand à poil court
+vizsla,vizsla,Braque hongrois (Vizsla)
+English_setter,English setter,Setter anglais
+Irish_setter,Irish setter,Setter irlandais
+Gordon_setter,Gordon setter,Setter Gordon
+Brittany_spaniel,Brittany spaniel,Épagneul breton
+clumber,clumber,Clumber Spaniel
+English_springer,English springer,Springer anglais
+Welsh_springer_spaniel,Welsh springer spaniel,Springer gallois
+cocker_spaniel,cocker spaniel,Cocker spaniel
+Sussex_spaniel,Sussex spaniel,Sussex Spaniel
+Irish_water_spaniel,Irish water spaniel,Chien d'eau irlandais
+kuvasz,kuvasz,Kuvasz
+schipperke,schipperke,Schipperke
+groenendael,groenendael,Berger belge Groenendael
+malinois,malinois,Berger belge Malinois
+briard,briard,Berger de Brie (Briard)
+kelpie,kelpie,Kelpie australien
+komondor,komondor,Komondor
+Old_English_sheepdog,Old English sheepdog,Bobtail
+Shetland_sheepdog,Shetland sheepdog,Berger des Shetland
+collie,collie,Colley
+Border_collie,Border collie,Border Collie
+Bouvier_des_Flandres,Bouvier des Flandres,Bouvier des Flandres
+Rottweiler,Rottweiler,Rottweiler
+German_shepherd,German shepherd,Berger allemand
+Doberman,Doberman,Dobermann
+miniature_pinscher,miniature pinscher,Pinscher nain
+Greater_Swiss_Mountain_dog,Greater Swiss Mountain dog,Grand bouvier suisse
+Bernese_mountain_dog,Bernese mountain dog,Bouvier bernois
+Appenzeller,Appenzeller,Bouvier de l'Appenzell
+EntleBucher,EntleBucher,Bouvier de l'Entlebuch
+boxer,boxer,Boxer
+bull_mastiff,bull mastiff,Bullmastiff
+Tibetan_mastiff,Tibetan mastiff,Dogue du Tibet
+French_bulldog,French bulldog,Bouledogue français
+Great_Dane,Great Dane,Dogue allemand
+Saint_Bernard,Saint Bernard,Saint-Bernard
+Eskimo_dog,Eskimo dog,Chien esquimau
+malamute,malamute,Malamute de l'Alaska
+Siberian_husky,Siberian husky,Husky sibérien
+affenpinscher,affenpinscher,Affenpinscher
+basenji,basenji,Basenji
+pug,pug,Carlin
+Leonberg,Leonberg,Leonberg
+Newfoundland,Newfoundland,Terre-Neuve
+Great_Pyrenees,Great Pyrenees,Montagne des Pyrénées (Patou)
+Samoyed,Samoyed,Samoyède
+Pomeranian,Pomeranian,Spitz nain (Loulou de Poméranie)
+chow,chow,Chow-chow
+keeshond,keeshond,Spitz-loup (Keeshond)
+Brabancon_griffon,Brabancon griffon,Griffon bruxellois
+Pembroke,Pembroke,Welsh Corgi Pembroke
+Cardigan,Cardigan,Welsh Corgi Cardigan
+toy_poodle,toy poodle,Caniche toy
+miniature_poodle,miniature poodle,Caniche nain
+standard_poodle,standard poodle,Caniche standard
+Mexican_hairless,Mexican hairless,Xoloitzcuintle (chien nu mexicain)
+dingo,dingo,Dingo
+dhole,dhole,Dhole (chien sauvage d'Asie)
+African_hunting_dog,African hunting dog,Lycaon

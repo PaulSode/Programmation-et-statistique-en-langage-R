@@ -1,0 +1,46 @@
+# ---- Donnees (volumineuses, regenerables) ----
+data/raw/
+data/manifest_raw.csv
+data/manifest_clean.csv
+data/class_index.csv
+data/class_weights.csv
+data/holdout/*
+
+# ---- Artefacts de modele ----
+models/*.keras
+models/checkpoint_*.keras
+models/class_names.json
+models/model_metadata.json
+models/class_index.csv
+
+# ---- Rapports generes ----
+reports/*.png
+reports/*.csv
+reports/*.md
+
+# ---- R ----
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# ---- Environnements Python (backend TensorFlow) ----
+.venv/
+venv/
+env/
+__pycache__/
+
+# ---- OS / IDE ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.log
+*.bak
+
+# Exception : la note explicative du jeu de controle est versionnee.
+# `data/holdout/*` (et non `data/holdout/`) est indispensable : git ne descend
+# pas dans un repertoire exclu, une negation a l'interieur resterait morte.
+!data/holdout/README.md
